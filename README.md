@@ -13,9 +13,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **my portfolio website**
-- 🌱 I’m currently learning **TypeScript**
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🔭 I’m currently working on **Online Votting App**
+- 🌱 I’m currently learning **System Design**
+- 👯 I’m looking to collaborate on **Frontend And Backend Both Projects **
 - 👨‍💻 All of my projects are available at [My Portfolio](https://pk65arya.github.io/pradeep-portfolio)
 - 📫 How to reach me: **pk65arya@gmail.com**
 - ⚡ Fun fact: I am a **Hotelier turned Developer**
