@@ -4,7 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Pradeep Kumar Upadhyay</strong> </h1>
 
-<h4 align="center"><strong>A passionate Full Stack Web Developer from India</strong></h4>
+<h3 align="center"><strong>A passionate Full Stack Web Developer from India</strong></h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pk65arya&label=Profile%20views&color=0e75b6&style=flat" alt="pk65arya" />
+</p>
 
 - 🔭 Currently building: **Payout Automation System**
 - 🌱 Learning: **Microservices**, **Docker**
