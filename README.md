@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder-gif" width="100%" height="500px" />
+  <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder-gif" width="100%" height="5%" />
 </p>
 
 # 👋 Hi, I’m Pradeep Kumar Upadhyay
