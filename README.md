@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coder-gif" width="100%" height="250px" />
 </p>
 
-# 👋 Hi, I’m Pradeep Kumar Upadhyay
+            ## 👋 Hi, I’m Pradeep Kumar Upadhyay
 
 A passionate full-stack developer specializing in **Java**, **Spring Boot**, **React**, and **PostgreSQL**.
 
