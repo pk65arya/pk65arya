@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Pradeep Kumar Upadhyay</strong> </h1>
 
-<p align="center" font="bold">A passionate Full Stack Web Developer from India</p>
+<h4 align="center"><strong>A passionate Full Stack Web Developer from India</strong></h4>
 
 - 🔭 Currently building: **Payout Automation System**
 - 🌱 Learning: **Microservices**, **Docker**
