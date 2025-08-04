@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Pradeep Kumar Upadhyay</strong> </h1>
 
-A passionate full-stack developer specializing in **Java**, **Spring Boot**, **React**, and **PostgreSQL**.
+<h2 align="center">A passionate Full Stack Web Developer from India</h2>
 
 - 🔭 Currently building: **Payout Automation System**
 - 🌱 Learning: **Microservices**, **Docker**
