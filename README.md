@@ -13,12 +13,24 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Online Votting App**
-- 🌱 I’m currently learning **System Design**
-- 👯 I’m looking to collaborate on **Frontend And Backend Both Projects **
-- 👨‍💻 All of my projects are available at [My Portfolio](https://pk65arya.github.io/pradeep-portfolio)
-- 📫 How to reach me: **pk65arya@gmail.com**
-- ⚡ Fun fact: I am a **Hotelier turned Developer**
+- 🔭 I’m currently working on an **Online Voting App**
+- 🌱 Currently learning **System Design**
+- 👯 Looking to collaborate on **Frontend and Backend projects**
+- 👨‍💻 Check out my work at [My Portfolio](https://pk65arya.github.io/pradeep-portfolio)
+- 📫 Reach me at: **pk65arya@gmail.com**
+
+
+---
+
+## 🎓 Education
+
+**Masai School**  
+*Full Stack Web Development – Certification*  
+*Currently Enrolled*
+
+**A. N. College, Patna, Bihar**  
+*B.Sc. in Information Technology*  
+*Graduated: June 2023*
 
 ---
 
